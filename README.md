@@ -11,5 +11,9 @@ The code is actually the code from Docker Getting Started (https://docs.docker.c
 
 -go to localhost:4000 on your system in browser to see the app.
 
+Still to learn:
+-how to get rid of all containers (?) lingering around? (docker login;docker container ls -a shows many un-named containers)
+
+
 
 
