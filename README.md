@@ -1,7 +1,7 @@
 # DockerExample1
 My first attempt in combination of using GitHub with Docker for Dummies
 
-The code is actually the code from Docker Getting Started.
+The code is actually the code from Docker Getting Started (https://docs.docker.com/get-started/part2/#build-the-app).
 
 -Start Docker if not running yet.
 
